@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "",
+        "database": "ticketbookingFlight",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": null,
+        "database": "ticketbookingFlight",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "jodiemadam",
+        "database": "ticketbookingFlight",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
